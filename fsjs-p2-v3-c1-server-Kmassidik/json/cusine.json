@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Italian Dish 1",
+    "description": "Delicious Italian dish 1",
+    "price": 15000,
+    "imgUrl": "https://myitalianlessons.co.uk/wp-content/uploads/2014/08/best-Italian-dishes.jpg",
+    "authorId": 5,
+    "categoryId": 7
+  },
+  {
+    "name": "Mexican Tacos",
+    "description": "Spicy Mexican Tacos",
+    "price": 10000,
+    "imgUrl": "https://img.freepik.com/free-photo/mexican-food-concept-high-angle_23-2148629376.jpg",
+    "authorId": 12,
+    "categoryId": 2
+  },
+  {
+    "name": "Cheesecake",
+    "description": "Creamy Cheesecake",
+    "price": 8000,
+    "imgUrl": "https://img.freepik.com/free-photo/closeup-shot-cheesecake-with-jelly-decorated-with-strawberries-berries_181624-45104.jpg",
+    "authorId": 9,
+    "categoryId": 3
+  },
+  {
+    "name": "Iced Coffee",
+    "description": "Refreshing Iced Coffee",
+    "price": 4000,
+    "imgUrl": "https://img.freepik.com/free-photo/glass-with-iced-coffee-table_23-2148937325.jpg",
+    "authorId": 8,
+    "categoryId": 4
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Classic Caesar Salad",
+    "price": 9000,
+    "imgUrl": "https://img.freepik.com/free-photo/side-view-caesar-salad-with-chicken-parmesan-cheese-white-bowl-wooden-board_140725-11875.jpg?size=626&ext=jpg&ga=GA1.2.1660307035.1694057463&semt=ais",
+    "authorId": 6,
+    "categoryId": 5
+  },
+  {
+    "name": "Tomato Soup",
+    "description": "Homemade Tomato Soup",
+    "price": 6000,
+    "imgUrl": "https://img.freepik.com/free-photo/warm-tomato-soup-serve-bowl_1150-42625.jpg?size=626&ext=jpg&ga=GA1.2.1660307035.1694057463&semt=ais",
+    "authorId": 14,
+    "categoryId": 6
+  },
+  {
+    "name": "Turkey Sandwich",
+    "description": "Deluxe Turkey Sandwich",
+    "price": 11000,
+    "imgUrl": "https://img.freepik.com/free-photo/grilled-sandwich-with-ham-cheese-tomato-lettuce-served-wooden-cutting-board_1150-42567.jpg?size=626&ext=jpg&ga=GA1.2.1660307035.1694057463&semt=ais",
+    "authorId": 3,
+    "categoryId": 7
+  },
+  {
+    "name": "Margherita Pizza",
+    "description": "Classic Margherita Pizza",
+    "price": 12000,
+    "imgUrl": "https://img.freepik.com/free-photo/front-view-pizza-with-red-tomatoes-cheese-brown-wooden-round-desk-grey-floor_140725-14480.jpg?size=626&ext=jpg&ga=GA1.2.1660307035.1694057463&semt=ais",
+    "authorId": 1,
+    "categoryId": 8
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "description": "Homemade Spaghetti Bolognese",
+    "price": 13000,
+    "imgUrl": "https://img.freepik.com/free-photo/authentic-italian-pasta_24972-2334.jpg?size=626&ext=jpg&ga=GA1.2.1660307035.1694057463&semt=ais",
+    "authorId": 11,
+    "categoryId": 9
+  },
+  {
+    "name": "Grilled Salmon",
+    "description": "Grilled Salmon Fillet",
+    "price": 17000,
+    "imgUrl": "https://img.freepik.com/free-photo/cooked-salmon-steaks_144627-30621.jpg?size=626&ext=jpg&ga=GA1.1.1660307035.1694057463&semt=ais",
+    "authorId": 7,
+    "categoryId": 10
+  },
+  {
+    "name": "Ribeye Steak",
+    "description": "Juicy Ribeye Steak",
+    "price": 20000,
+    "imgUrl": "https://img.freepik.com/free-photo/roasted-meat-piece-cutting-desk_140725-3812.jpg?size=626&ext=jpg&ga=GA1.2.1660307035.1694057463&semt=ais",
+    "authorId": 2,
+    "categoryId": 11
+  },
+  {
+    "name": "Vegetable Stir-Fry",
+    "description": "Healthy Vegetable Stir-Fry",
+    "price": 14000,
+    "imgUrl": "https://img.freepik.com/free-photo/chicken-stir-fry-vegetables-isolated-white-background_123827-21246.jpg?size=626&ext=jpg&ga=GA1.1.1660307035.1694057463&semt=ais",
+    "authorId": 10,
+    "categoryId": 12
+  },
+  {
+    "name": "Vegan Burger",
+    "description": "Plant-Based Vegan Burger",
+    "price": 9000,
+    "imgUrl": "https://img.freepik.com/free-photo/front-view-sandwich-with-salad_23-2148640167.jpg?size=626&ext=jpg&ga=GA1.2.1660307035.1694057463&semt=ais",
+    "authorId": 15,
+    "categoryId": 13
+  },
+  {
+    "name": "Sushi Platter",
+    "description": "Assorted Sushi Platter",
+    "price": 18000,
+    "imgUrl": "https://img.freepik.com/free-photo/top-view-sushi-set-with-soy-sauce-chopsticks-wooden-serving-board_176474-3466.jpg?size=626&ext=jpg&ga=GA1.2.1660307035.1694057463&semt=ais",
+    "authorId": 4,
+    "categoryId": 1
+  },
+  {
+    "name": "Chicken Alfredo",
+    "description": "Creamy Chicken Alfredo",
+    "price": 16000,
+    "imgUrl": "https://img.freepik.com/free-photo/side-view-pasta-with-sauce-parmesan-mushrooms-lettuce_176474-2504.jpg?size=626&ext=jpg&ga=GA1.2.1660307035.1694057463&semt=ais",
+    "authorId": 13,
+    "categoryId": 9
+  },
+  {
+    "name": "Mango Smoothie",
+    "description": "Refreshing Mango Smoothie",
+    "price": 5000,
+    "imgUrl": "https://img.freepik.com/free-photo/mango-juice-glass-dark-surface_1150-41957.jpg?size=626&ext=jpg&ga=GA1.2.1660307035.1694057463&semt=ais",
+    "authorId": 2,
+    "categoryId": 4
+  },
+  {
+    "name": "Greek Salad",
+    "description": "Authentic Greek Salad",
+    "price": 10000,
+    "imgUrl": "https://img.freepik.com/free-photo/side-view-hand-pouring-olive-oil-fresh-salad-with-feta-cheese-tomatoe-cucumbers-white-bowl_140725-12169.jpg?size=626&ext=jpg&ga=GA1.2.1660307035.1694057463&semt=ais",
+    "authorId": 12,
+    "categoryId": 5
+  },
+  {
+    "name": "Clam Chowder",
+    "description": "Creamy Clam Chowder",
+    "price": 7000,
+    "imgUrl": "https://img.freepik.com/free-photo/top-view-creamy-chicken-soup-bowl-garnished-with-parsley-served-with-bread-stuffing_141793-2127.jpg?size=626&ext=jpg&ga=GA1.2.1660307035.1694057463&semt=ais",
+    "authorId": 9,
+    "categoryId": 6
+  },
+  {
+    "name": "Hawaiian Pizza",
+    "description": "Tropical Hawaiian Pizza",
+    "price": 14000,
+    "imgUrl": "https://img.freepik.com/free-photo/pizza-polo-funghi-table_140725-5398.jpg?size=626&ext=jpg&ga=GA1.2.1660307035.1694057463&semt=ais",
+    "authorId": 6,
+    "categoryId": 8
+  },
+  {
+    "name": "Beef Tacos",
+    "description": "Savory Beef Tacos",
+    "price": 11000,
+    "imgUrl": "https://img.freepik.com/free-photo/delicious-mexican-tacos_144627-12313.jpg?size=626&ext=jpg&ga=GA1.2.1660307035.1694057463&semt=ais",
+    "authorId": 5,
+    "categoryId": 2
+  },
+  {
+    "name": "Chocolate Cake",
+    "description": "Decadent Chocolate Cake",
+    "price": 8500,
+    "imgUrl": "https://img.freepik.com/free-photo/close-up-chocolate-cake-dark-background_1220-2171.jpg?size=626&ext=jpg&ga=GA1.2.1660307035.1694057463&semt=ais",
+    "authorId": 8,
+    "categoryId": 3
+  },
+  {
+    "name": "Iced Tea",
+    "description": "Refreshing Iced Tea",
+    "price": 3000,
+    "imgUrl": "https://img.freepik.com/free-photo/ice-falling-brown-drink_1194-1074.jpg?w=740&t=st=1695285729~exp=1695286329~hmac=f9051585c44384425b6db2a5f568f99112f7e7125045777eae13a5886108b6be",
+    "authorId": 11,
+    "categoryId": 4
+  },
+  {
+    "name": "Greek Gyros",
+    "description": "Succulent Greek Gyros",
+    "price": 12000,
+    "imgUrl": "https://img.freepik.com/free-photo/side-view-doner-pita-with-french-fries-fresh-cucumber-tomato_141793-4970.jpg?w=1060&t=st=1695285657~exp=1695286257~hmac=28328edfcf22343233d736f8b423588bb1fbafa4af3a21bf06d1eeb53c03f87a",
+    "authorId": 7,
+    "categoryId": 7
+  },
+  {
+    "name": "Pepperoni Pizza",
+    "description": "Spicy Pepperoni Pizza",
+    "price": 13000,
+    "imgUrl": "https://img.freepik.com/free-photo/slice-cut-from-classic-pepperoni-pizza-with-green-pepper-rolls_114579-1963.jpg?w=996&t=st=1695285507~exp=1695286107~hmac=ca1eb89c5ab836791908112accd317d621a5df3cd38539e412196a9d56f62a6e",
+    "authorId": 10,
+    "categoryId": 8
+  },
+  {
+    "name": "Carbonara Pasta",
+    "description": "Creamy Carbonara Pasta",
+    "price": 14000,
+    "imgUrl": "https://img.freepik.com/free-photo/pasta-gourmet-comida-gastronomy-yummy_1350-66.jpg?w=1060&t=st=1695285471~exp=1695286071~hmac=36759ecfd3f37c7b2d2df25909a6964f55a699ce817b9b6ad2b6004c810f947f",
+    "authorId": 2,
+    "categoryId": 9
+  },
+  {
+    "name": "Teriyaki Salmon",
+    "description": "Teriyaki Glazed Salmon",
+    "price": 16000,
+    "imgUrl": "https://img.freepik.com/free-photo/roasted-salmon-ironic-pan-served-with-teriyaki-sauce_114579-1944.jpg?w=1060&t=st=1695285421~exp=1695286021~hmac=2d47861b1906cdb7fda8531838287bf32fcbe845cfb5c50de213c51277a6a8a4",
+    "authorId": 15,
+    "categoryId": 10
+  },
+  {
+    "name": "T-Bone Steak",
+    "description": "Juicy T-Bone Steak",
+    "price": 22000,
+    "imgUrl": "https://img.freepik.com/free-photo/grilled-beef-steak-with-fries-grilled-tomato-pepper-sauces_140725-10545.jpg?w=1060&t=st=1695285372~exp=1695285972~hmac=0a615ce304fe0b423d26784c56d2dda46127c0949d77188b27d43ab9362230f7",
+    "authorId": 4,
+    "categoryId": 11
+  },
+  {
+    "name": "Vegetable Lasagna",
+    "description": "Deluxe Vegetable Lasagna",
+    "price": 15000,
+    "imgUrl": "https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-11251.jpg?size=626&ext=jpg&ga=GA1.2.1660307035.1694057463&semt=ais",
+    "authorId": 13,
+    "categoryId": 12
+  },
+  {
+    "name": "Vegan Pad Thai",
+    "description": "Plant-Based Pad Thai",
+    "price": 12000,
+    "imgUrl": "https://img.freepik.com/free-photo/fried-noodle-with-pork-soy-sauce-vegetable_1150-27401.jpg?w=1060&t=st=1695285106~exp=1695285706~hmac=1477508046d50d646e4c52c6a440691d3b024eaec2374e48b89ca0381653d2de",
+    "authorId": 6,
+    "categoryId": 13
+  }
+]

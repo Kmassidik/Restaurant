@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Appetizers"
+  },
+  {
+    "name": "Main Courses"
+  },
+  {
+    "name": "Desserts"
+  },
+  {
+    "name": "Beverages"
+  },
+  {
+    "name": "Salads"
+  },
+  {
+    "name": "Soups"
+  },
+  {
+    "name": "Sandwiches"
+  },
+  {
+    "name": "Pizzas"
+  },
+  {
+    "name": "Pasta"
+  },
+  {
+    "name": "Seafood"
+  },
+  {
+    "name": "Steaks"
+  },
+  {
+    "name": "Vegetarian"
+  },
+  {
+    "name": "Vegan"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "username": "user1",
+    "email": "user1@example.com",
+    "password": "password1",
+    "role": "customer",
+    "phoneNumber": "123-456-7890",
+    "address": "123 Main St"
+  },
+  {
+    "username": "user2",
+    "email": "user2@example.com",
+    "password": "password2",
+    "role": "staff",
+    "phoneNumber": "987-654-3210",
+    "address": "456 Elm St"
+  },
+  {
+    "username": "user3",
+    "email": "user3@example.com",
+    "password": "password3",
+    "role": "customer",
+    "phoneNumber": "555-555-5555",
+    "address": "789 Oak Ave"
+  },
+  {
+    "username": "admin1",
+    "email": "admin1@example.com",
+    "password": "adminpass1",
+    "role": "admin",
+    "phoneNumber": "111-222-3333",
+    "address": "101 Admin Blvd"
+  },
+  {
+    "username": "admin2",
+    "email": "admin2@example.com",
+    "password": "adminpass2",
+    "role": "admin",
+    "phoneNumber": "444-555-6666",
+    "address": "202 Admin Rd"
+  },
+  {
+    "username": "user4",
+    "email": "user4@example.com",
+    "password": "password4",
+    "role": "staff",
+    "phoneNumber": "666-777-8888",
+    "address": "555 Maple Ln"
+  },
+  {
+    "username": "user5",
+    "email": "user5@example.com",
+    "password": "password5",
+    "role": "staff",
+    "phoneNumber": "999-888-7777",
+    "address": "789 Pine Dr"
+  },
+  {
+    "username": "admin3",
+    "email": "admin3@example.com",
+    "password": "adminpass3",
+    "role": "admin",
+    "phoneNumber": "777-888-9999",
+    "address": "303 Admin Ave"
+  },
+  {
+    "username": "user6",
+    "email": "user6@example.com",
+    "password": "password6",
+    "role": "staff",
+    "phoneNumber": "222-333-4444",
+    "address": "444 Cedar St"
+  },
+  {
+    "username": "user7",
+    "email": "user7@example.com",
+    "password": "password7",
+    "role": "staff",
+    "phoneNumber": "777-666-5555",
+    "address": "999 Birch Rd"
+  },
+  {
+    "username": "admin4",
+    "email": "admin4@example.com",
+    "password": "adminpass4",
+    "role": "admin",
+    "phoneNumber": "333-444-5555",
+    "address": "505 Admin Ln"
+  },
+  {
+    "username": "user8",
+    "email": "user8@example.com",
+    "password": "password8",
+    "role": "staff",
+    "phoneNumber": "555-444-3333",
+    "address": "777 Oak St"
+  },
+  {
+    "username": "user9",
+    "email": "user9@example.com",
+    "password": "password9",
+    "role": "staff",
+    "phoneNumber": "888-999-0000",
+    "address": "101 Elm Ave"
+  },
+  {
+    "username": "admin5",
+    "email": "admin5@example.com",
+    "password": "adminpass5",
+    "role": "admin",
+    "phoneNumber": "222-111-9999",
+    "address": "303 Admin Rd"
+  },
+  {
+    "username": "user10",
+    "email": "user10@example.com",
+    "password": "password10",
+    "role": "staff",
+    "phoneNumber": "666-555-4444",
+    "address": "555 Pine Dr"
+  }
+]
